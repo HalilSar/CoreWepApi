@@ -1,0 +1,70 @@
+C:\Users\iau\Desktop\6.11.19\PersonelApi\PersonelApi\bin\Debug\netcoreapp2.2\PersonelApi.deps.json
+C:\Users\iau\Desktop\6.11.19\PersonelApi\PersonelApi\bin\Debug\netcoreapp2.2\PersonelApi.runtimeconfig.json
+C:\Users\iau\Desktop\6.11.19\PersonelApi\PersonelApi\bin\Debug\netcoreapp2.2\PersonelApi.runtimeconfig.dev.json
+C:\Users\iau\Desktop\6.11.19\PersonelApi\PersonelApi\bin\Debug\netcoreapp2.2\PersonelApi.dll
+C:\Users\iau\Desktop\6.11.19\PersonelApi\PersonelApi\bin\Debug\netcoreapp2.2\PersonelApi.pdb
+C:\Users\iau\Desktop\6.11.19\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.2\PersonelApi.csprojAssemblyReference.cache
+C:\Users\iau\Desktop\6.11.19\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.2\PersonelApi.csproj.CoreCompileInputs.cache
+C:\Users\iau\Desktop\6.11.19\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.2\PersonelApi.RazorAssemblyInfo.cache
+C:\Users\iau\Desktop\6.11.19\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.2\PersonelApi.RazorAssemblyInfo.cs
+C:\Users\iau\Desktop\6.11.19\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.2\PersonelApi.AssemblyInfoInputs.cache
+C:\Users\iau\Desktop\6.11.19\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.2\PersonelApi.AssemblyInfo.cs
+C:\Users\iau\Desktop\6.11.19\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.2\PersonelApi.RazorTargetAssemblyInfo.cache
+C:\Users\iau\Desktop\6.11.19\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.2\PersonelApi.dll
+C:\Users\iau\Desktop\6.11.19\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.2\PersonelApi.pdb
+C:\Users\iau\Desktop\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.2\PersonelApi.csprojAssemblyReference.cache
+C:\Users\iau\Desktop\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.2\PersonelApi.csproj.CoreCompileInputs.cache
+C:\Users\iau\Desktop\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.2\PersonelApi.RazorAssemblyInfo.cache
+C:\Users\iau\Desktop\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.2\PersonelApi.RazorAssemblyInfo.cs
+C:\Users\iau\Desktop\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.2\PersonelApi.AssemblyInfoInputs.cache
+C:\Users\iau\Desktop\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.2\PersonelApi.AssemblyInfo.cs
+C:\Users\iau\Desktop\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.2\PersonelApi.dll
+C:\Users\iau\Desktop\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.2\PersonelApi.pdb
+C:\Users\iau\Desktop\PersonelApi\PersonelApi\bin\Debug\netcoreapp2.2\PersonelApi.deps.json
+C:\Users\iau\Desktop\PersonelApi\PersonelApi\bin\Debug\netcoreapp2.2\PersonelApi.runtimeconfig.json
+C:\Users\iau\Desktop\PersonelApi\PersonelApi\bin\Debug\netcoreapp2.2\PersonelApi.runtimeconfig.dev.json
+C:\Users\iau\Desktop\PersonelApi\PersonelApi\bin\Debug\netcoreapp2.2\PersonelApi.dll
+C:\Users\iau\Desktop\PersonelApi\PersonelApi\bin\Debug\netcoreapp2.2\PersonelApi.pdb
+C:\Users\iau\Desktop\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.2\PersonelApi.RazorTargetAssemblyInfo.cache
+E:\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.2\PersonelApi.csprojAssemblyReference.cache
+E:\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.2\PersonelApi.csproj.CoreCompileInputs.cache
+E:\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.2\PersonelApi.RazorAssemblyInfo.cache
+E:\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.2\PersonelApi.RazorAssemblyInfo.cs
+E:\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.2\PersonelApi.AssemblyInfoInputs.cache
+E:\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.2\PersonelApi.AssemblyInfo.cs
+E:\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.2\PersonelApi.dll
+E:\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.2\PersonelApi.pdb
+E:\PersonelApi\PersonelApi\bin\Debug\netcoreapp2.2\PersonelApi.deps.json
+E:\PersonelApi\PersonelApi\bin\Debug\netcoreapp2.2\PersonelApi.runtimeconfig.json
+E:\PersonelApi\PersonelApi\bin\Debug\netcoreapp2.2\PersonelApi.runtimeconfig.dev.json
+E:\PersonelApi\PersonelApi\bin\Debug\netcoreapp2.2\PersonelApi.dll
+E:\PersonelApi\PersonelApi\bin\Debug\netcoreapp2.2\PersonelApi.pdb
+E:\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.2\PersonelApi.RazorTargetAssemblyInfo.cache
+C:\Users\iau\Desktop\PersonelApi (1)\PersonelApi\PersonelApi\bin\Debug\netcoreapp2.2\PersonelApi.deps.json
+C:\Users\iau\Desktop\PersonelApi (1)\PersonelApi\PersonelApi\bin\Debug\netcoreapp2.2\PersonelApi.runtimeconfig.json
+C:\Users\iau\Desktop\PersonelApi (1)\PersonelApi\PersonelApi\bin\Debug\netcoreapp2.2\PersonelApi.runtimeconfig.dev.json
+C:\Users\iau\Desktop\PersonelApi (1)\PersonelApi\PersonelApi\bin\Debug\netcoreapp2.2\PersonelApi.dll
+C:\Users\iau\Desktop\PersonelApi (1)\PersonelApi\PersonelApi\bin\Debug\netcoreapp2.2\PersonelApi.pdb
+C:\Users\iau\Desktop\PersonelApi (1)\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.2\PersonelApi.csprojAssemblyReference.cache
+C:\Users\iau\Desktop\PersonelApi (1)\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.2\PersonelApi.csproj.CoreCompileInputs.cache
+C:\Users\iau\Desktop\PersonelApi (1)\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.2\PersonelApi.RazorAssemblyInfo.cache
+C:\Users\iau\Desktop\PersonelApi (1)\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.2\PersonelApi.RazorAssemblyInfo.cs
+C:\Users\iau\Desktop\PersonelApi (1)\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.2\PersonelApi.AssemblyInfoInputs.cache
+C:\Users\iau\Desktop\PersonelApi (1)\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.2\PersonelApi.AssemblyInfo.cs
+C:\Users\iau\Desktop\PersonelApi (1)\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.2\PersonelApi.RazorTargetAssemblyInfo.cache
+C:\Users\iau\Desktop\PersonelApi (1)\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.2\PersonelApi.dll
+C:\Users\iau\Desktop\PersonelApi (1)\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.2\PersonelApi.pdb
+F:\2019.11.11 Angular & web Api\PersonelApi (1)\PersonelApi\PersonelApi\bin\Debug\netcoreapp2.2\PersonelApi.deps.json
+F:\2019.11.11 Angular & web Api\PersonelApi (1)\PersonelApi\PersonelApi\bin\Debug\netcoreapp2.2\PersonelApi.runtimeconfig.json
+F:\2019.11.11 Angular & web Api\PersonelApi (1)\PersonelApi\PersonelApi\bin\Debug\netcoreapp2.2\PersonelApi.runtimeconfig.dev.json
+F:\2019.11.11 Angular & web Api\PersonelApi (1)\PersonelApi\PersonelApi\bin\Debug\netcoreapp2.2\PersonelApi.dll
+F:\2019.11.11 Angular & web Api\PersonelApi (1)\PersonelApi\PersonelApi\bin\Debug\netcoreapp2.2\PersonelApi.pdb
+F:\2019.11.11 Angular & web Api\PersonelApi (1)\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.2\PersonelApi.csprojAssemblyReference.cache
+F:\2019.11.11 Angular & web Api\PersonelApi (1)\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.2\PersonelApi.csproj.CoreCompileInputs.cache
+F:\2019.11.11 Angular & web Api\PersonelApi (1)\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.2\PersonelApi.RazorAssemblyInfo.cache
+F:\2019.11.11 Angular & web Api\PersonelApi (1)\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.2\PersonelApi.RazorAssemblyInfo.cs
+F:\2019.11.11 Angular & web Api\PersonelApi (1)\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.2\PersonelApi.AssemblyInfoInputs.cache
+F:\2019.11.11 Angular & web Api\PersonelApi (1)\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.2\PersonelApi.AssemblyInfo.cs
+F:\2019.11.11 Angular & web Api\PersonelApi (1)\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.2\PersonelApi.RazorTargetAssemblyInfo.cache
+F:\2019.11.11 Angular & web Api\PersonelApi (1)\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.2\PersonelApi.dll
+F:\2019.11.11 Angular & web Api\PersonelApi (1)\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.2\PersonelApi.pdb

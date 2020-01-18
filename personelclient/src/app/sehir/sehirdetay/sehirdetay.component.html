@@ -1,0 +1,30 @@
+<!--<h2> Detaylar</h2>
+<p> {{ sehirInp.id }} </p>
+<p> {{ sehirInp.ad }} </p>
+<p> <img src="{{sehirInp.resimyol }}" alt="" height="200px" > </p>
+Eskiden form olmadığında detayı böyle yazdırıyorduk. şimdi buraa artık form yapıcaz.-->
+
+<h2>Detaylar</h2>
+<form [formGroup]="sehirForm">
+    <div class="form-group">
+        <label>id</label>
+        <input type="text"  formControlName="id" class="form-control" value="{{sehirInp.id}}"  [(ngModel)]="sehirInp.id">
+       
+        <label>ad</label>
+        <input class="form-control"
+        [ngClass]="{'is-invalid ': sehirForm.get('ad').errors && sehirForm.get('ad').touched}"
+         type="text"  formControlName="ad"  value="{{sehirInp.ad}}" [(ngModel)]="sehirInp.ad">
+
+         <div class="invalid-feedback" 
+         *ngIf="sehirForm.get('ad').hasError('required') && sehirForm.get('ad').touched">
+        Ad 3 ile 50 karakter arasında olmalı...
+        <!-- üstteki bu kod ad imputunun altına 50 karakterden fazla veya 3 karakterden az birşey yazıldığında uyarı yazısı veriyor.-->
+    </div>
+       
+    </div>
+</form>
+<p>Form Value: {{sehirForm.value | json}}</p>
+<p>Form Status: {{sehirForm.status | json}}</p>
+<p>Form Disabled: {{sehirForm.disabled | json }}</p>
+<p>Form Error: {{sehirForm.errors | json}}</p>
+<p>Form Touched: {{sehirForm.touched | json}}</p>
